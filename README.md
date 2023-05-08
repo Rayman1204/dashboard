@@ -1,1 +1,1 @@
-This is a dashboard using HTML, CSS and Javascript
+This is a Basic dashboard template trial using React.js.
